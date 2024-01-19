@@ -16,11 +16,11 @@ My enthusiasm for technology becomes evident in the lines of code I write (and a
     [![My Skills](https://skillicons.dev/icons?i=js,react,html,css)](https://skillicons.dev) 
 - ### Backend
     [![My Skills](https://skillicons.dev/icons?i=ts,express,java,spring)](https://skillicons.dev)
-- ## Mobile
+- ### Mobile
     [![My Skills](https://skillicons.dev/icons?i=dart,flutter)](https://skillicons.dev)
-- ## Database
+- ### Database
     [![My Skills](https://skillicons.dev/icons?i=postgres,sqlite,firebase)](https://skillicons.dev)
-- ## Others
+- ### Others
     [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma)](https://skillicons.dev)
 
 ## Find me around the web 🌎: <img align="left" width="200" height="200" src="https://raw.githubusercontent.com/rm3d0nc4/rm3d0nc4/main/profile-01.png">
