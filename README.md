@@ -1,30 +1,29 @@
 # Hi, I'm Romero 👋🏻!
 
-Meu entusiasmo pela tecnologia é evidente nas linhas de código que escrevo (e também nos bugs que as perseguem).
+<img src="https://raw.githubusercontent.com/rm3d0nc4/rm3d0nc4/main/title.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
 
-## Um breve resumo:
- - 👨🏻‍💻 Experiência Acadêmica com ênfase em desenvolvimento web full stack e mobile
- - 🎓 Graduando em Análise e Desenvolvimento de Sistemas no Instituto Federal do Piauí
- - 🗣️ Sou membro do projeto ComuniCARE Apraxio. Atuo principalmente como desenvolvedor mobile
- - 🤫 Off topic: gosto de filmes de 👻terror e 🐮animais
+My enthusiasm for technology becomes evident in the lines of code I write (and also in the bugs that chase them).
+
+## A brief summary:
+ - 👨🏻‍💻 Academic experience with full stack web and mobile development
+ - 🎓 Graduating in System Analisys and Development at [IFPI](https://www.ifpi.edu.br/teresinacentral)
+ - 🗣 I'm member of the [ComuniCARE Apraxia](https://comunicaresolutions.com/appraxi) project, working mainly as mobile developer
+ - 🤫 Off topic: I like 👻horror movies and 🐮animals
  
 ## Techs:
-<div display="flex">
-    <div flex="1">
-    - ### Frontend
-        [![My Skills](https://skillicons.dev/icons?i=js,react,html,css)](https://skillicons.dev)
-    </div>
-    <div flex="1">
-    - ### Backend
-        [![My Skills](https://skillicons.dev/icons?i=ts,express,java,spring)](https://skillicons.dev)
-    </div>
-</div>
 
-
-
+- ### Frontend
+    [![My Skills](https://skillicons.dev/icons?i=js,react,html,css)](https://skillicons.dev) 
+- ### Backend
+    [![My Skills](https://skillicons.dev/icons?i=ts,express,java,spring)](https://skillicons.dev)
 - ## Mobile
     [![My Skills](https://skillicons.dev/icons?i=dart,flutter)](https://skillicons.dev)
 - ## Database
     [![My Skills](https://skillicons.dev/icons?i=postgres,sqlite,firebase)](https://skillicons.dev)
 - ## Others
     [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma)](https://skillicons.dev)
+
+## Find me around the web 🌎: <img align="left" width="200" height="200" src="https://raw.githubusercontent.com/rm3d0nc4/rm3d0nc4/main/profile-01.png">
+- Talking about myself on <a href="https://www.youtube.com/watch?v=T-uk1VgOeVQ">YouTube</a> 📹
+- Sharing updates on <a href="https://www.linkedin.com/in/rm3d0nc4/">LinkedIn</a> 💼
+- Recording memorable moments on <a href="https://instagram.com/rm3nd0nc4"> Instagran</a> 🌄
