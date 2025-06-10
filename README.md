@@ -6,7 +6,7 @@ My enthusiasm for technology becomes evident in the lines of code I write (and a
 
 ## A brief summary:
  - 👨🏻‍💻 Academic experience with full stack web and mobile development
- - 🎓 Graduating in System Analisys and Development at [IFPI](https://www.ifpi.edu.br/teresinacentral)
+ - 🎓 Graduated in System Analisys and Development at [IFPI](https://www.ifpi.edu.br/teresinacentral)
  - 🗣 I'm member of the [ComuniCARE Apraxia](https://comunicaresolutions.com/appraxi) project, working mainly as mobile developer
  - 🤫 Off topic: I like 👻horror movies and 🐮animals
  
